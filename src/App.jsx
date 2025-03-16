@@ -7,7 +7,7 @@ const App = () => {
         Hello world!
       </h1>
 
-      <div className="pt-[4.75rem] lg:pt-[5.25rem]overflow-hidden"></div>
+      <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden"></div>
 
       <button className="mt-10" href="#login">
         Something
