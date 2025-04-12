@@ -1,0 +1,34 @@
+
+---------------------------------------------------------------
+
+No-Scroll in (Hamburger Menu)
+
+//
+// RECOMMENDED
+//
+https://github.com/fluejs/noscroll
+https://noscroll.fl3nkey.com/
+
+npm install --save-dev @fluejs/noscroll
+
+
+//
+// OLD METHOD (NOT RECOMMENDED)
+//
+https://www.npmjs.com/package/scroll-lock
+
+npm install scroll-lock
+
+---------------------------------------------------------------
+
+...
+
+
+
+
+
+
+
+
+
+
