@@ -1,8 +1,6 @@
 # Brainwave
 
-```
 Brainwave is a powerful AI chat app designed to enhance productivity and streamline communication. Built with React, styled with Tailwind CSS, and created using Vite for fast development, this website leverages reusable components for a modular and efficient structure. Explore the possibilities of AI chatting with Brainwave.
-```
 
 ## Features
 
