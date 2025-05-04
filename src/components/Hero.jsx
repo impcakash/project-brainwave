@@ -31,7 +31,7 @@ const Hero = () => {
                 className="absolute top-full left-0 w-full xl:-mt-2"
                 width={624}
                 height={28}
-                alt="curve"
+                alt="Curve"
               />
             </span>
           </h1>
@@ -72,7 +72,7 @@ const Hero = () => {
                 <ScrollParallax isAbsolutelyPositioned>
                   <Notification
                     className="hidden absolute -right-[5.5rem] bottom-[11rem] w-[18rem] xl:flex"
-                    title="code generation"
+                    title="Code generation"
                   />
                 </ScrollParallax>
               </div>
