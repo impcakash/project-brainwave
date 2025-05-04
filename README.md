@@ -91,3 +91,5 @@ Brainwave is a powerful AI chat app designed to enhance productivity and streaml
 ![App Screenshot](public/pics/pic_09.png)
 
 ## Deployed Link
+
+https://project-ai-chatapp.netlify.app/
